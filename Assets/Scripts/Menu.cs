@@ -24,7 +24,7 @@ public class Menu : MonoBehaviour
     public void Next()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadSceneAsync(2);
+        SceneManager.LoadSceneAsync(0);
     }
 
     public void QuitGame()
