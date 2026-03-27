@@ -12,7 +12,7 @@ public class Menu : MonoBehaviour
     public void menuGame()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadSceneAsync(2);
+        SceneManager.LoadSceneAsync(1);
     }
 
     public void reTry()
@@ -24,7 +24,7 @@ public class Menu : MonoBehaviour
     public void Next()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadSceneAsync(3);
+        SceneManager.LoadSceneAsync(2);
     }
 
     public void QuitGame()
