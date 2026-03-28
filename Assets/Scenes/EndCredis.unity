@@ -631,12 +631,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Memembers
-
-    1670705019 Thakit Pechyuu 229D No.24 : Ui, Programming
-
-    1670706231
-    Sakonwat Yimnapoe  229A No.27 :  Programing, Level design'
+  m_text: "Ma-lee Look Mae Maem \nMemembers\n1670705019 Thakit Pechyuu 229A No.24
+    : Ui, Programming\n1670706231 Sakonwat Yimnapoe  229A No.27 :  Programing, Level
+    design"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
